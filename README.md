@@ -61,7 +61,7 @@ Built with: ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&log
 ## 🎵 More about me
 
 - 🎵 **Music** is my daily fuel.
-- 🎬 Always up for a good classic or contemporary **film**, I love them all.
+- 🎬 Always up for a good classic or contemporary **film**, I love it all.
 - 🐮 I adore animals and I love help them.
 
 ---
