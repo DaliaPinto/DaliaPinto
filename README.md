@@ -6,8 +6,8 @@ Passionate about solving real problems through design and code.
 ## 💼 About me
 
 🖥️ **Mobile & Web Developer**  
-- 📍 Building things people actually use and solving real problems, making interfaces that look good and feel good, and watching my ideas come to life on the screen.
-- 📍 I'm working in <a href="https://solbeautyandcare.com">Sol Beauty & Care</a>
+- 📍 Building things people actually use and solving real problems, making interfaces that look good and feel good and watching my ideas come to life on the screen.
+- 📍 I'm currently working at <a href="https://solbeautyandcare.com">Sol Beauty & Care</a>
 
 ## 🛠️ Skills & Toolset
 
@@ -61,8 +61,8 @@ Built with: ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&log
 ## 🎵 More about me
 
 - 🎵 **Music** is my daily fuel.
-- 🎬 Always up for a good **movie** classics or new films, I love them all.
-- 🐮 I love animals and I love helping them.
+- 🎬 Always up for a good classic or contemporary **film**, I love them all.
+- 🐮 I adore animals and I love help them.
 
 ---
 
