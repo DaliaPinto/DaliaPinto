@@ -1,18 +1,13 @@
-# Hi, I’m Dalia 👋
+## Hi, I’m Dalia 👋
 
 **Front-end developer focused on building beautiful and usable web experiences.**  
 Passionate about solving real problems through design and code.
 
----
-
 ## 💼 About me
 
 🖥️ **Mobile & Web Developer**  
-📍 Building things people actually use — solving real problems, making interfaces that look good and feel good, and watching my ideas come to life on the screen.
-📍 I'm working in <a href="https://solbeautyandcare.com">Sol Beauty & care</a>
-📍 Right now I'm focused on front-end because it's what I enjoy the most.
-
----
+- 📍 Building things people actually use and solving real problems, making interfaces that look good and feel good, and watching my ideas come to life on the screen.
+- 📍 I'm working in <a href="https://solbeautyandcare.com">Sol Beauty & Care</a>
 
 ## 🛠️ Skills & Toolset
 
@@ -35,15 +30,11 @@ Passionate about solving real problems through design and code.
   <img src="https://img.shields.io/badge/-Element%20UI-409EFF?style=flat&logo=element&logoColor=white"/>
 </p>
 
----
-
 ## 🚀 Highlight project
 
 - 🎓 **SCA** (Private)  
 A full system I worked on for a university to manage students — from when they applied, took the entrance exam, all the way to becoming official students. I built features that made the admin process smoother and the UI easier to use.  
 Built with: ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Element UI](https://img.shields.io/badge/-Element%20UI-409EFF?style=flat&logo=element&logoColor=white)
-
----
 
 ## 🌎 Connect with me
 
@@ -56,12 +47,10 @@ Built with: ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&log
   </a>
 </p>
 
----
-
 ## 🎵 More about me
 
 - 🎵 **Music** is my daily fuel.
-- 🎬 Always up for a good **movie** — classics or new releases, I love them all.
+- 🎬 Always up for a good **movie** classics or new films, I love them all.
 - 🐮 I love animals and I love helping them.
 
 ---
