@@ -5,10 +5,10 @@ Passionate about solving real problems through design and code.
 
 ---
 
-## 💼 About Me
+## 💼 About me
 
-- 🖥️ **Mobile & Web Developer**  
-- 📍 Building things people actually use — solving real problems, making interfaces that look good and feel good, and watching my ideas come to life on the screen.
+🖥️ **Mobile & Web Developer**  
+📍 Building things people actually use — solving real problems, making interfaces that look good and feel good, and watching my ideas come to life on the screen.
 
 ---
 
@@ -35,7 +35,7 @@ Passionate about solving real problems through design and code.
 
 ---
 
-## 🚀 Highlight Project
+## 🚀 Highlight project
 
 - 🎓 **SCA** (Private)  
 A full system I worked on for a university to manage students — from when they applied, took the entrance exam, all the way to becoming official students. I built features that made the admin process smoother and the UI easier to use.  
@@ -43,7 +43,7 @@ Built with: ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&log
 
 ---
 
-## 🌎 Connect with Me
+## 🌎 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dalia-pinto/">
@@ -56,7 +56,7 @@ Built with: ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&log
 
 ---
 
-## 🎵 More About Me
+## 🎵 More about me
 
 - 🎵 **Music** is my daily fuel.
 - 🎬 Always up for a good **movie** — classics or new releases, I love them all.
