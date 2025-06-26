@@ -9,6 +9,8 @@ Passionate about solving real problems through design and code.
 
 🖥️ **Mobile & Web Developer**  
 📍 Building things people actually use — solving real problems, making interfaces that look good and feel good, and watching my ideas come to life on the screen.
+📍 I'm working in <a href="https://solbeautyandcare.com">Sol Beauty & care</a>
+📍 Right now I'm focused on front-end because it's what I enjoy the most.
 
 ---
 
