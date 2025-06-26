@@ -30,6 +30,15 @@ Passionate about solving real problems through design and code.
   <img src="https://img.shields.io/badge/-Element%20UI-409EFF?style=flat&logo=element&logoColor=white"/>
 </p>
 
+## 🚧 Learning 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-UX%20%2F%20UI-0d1117?style=flat&logo=figma&logoColor=white"/>
+</p>
+
 ## 🚀 Highlight project
 
 - 🎓 **SCA** (Private)  
