@@ -11,6 +11,8 @@ Passionate about solving real problems through design and code.
 
 ## 🛠️ Skills & Toolset
 
+**🚩 Main stack**
+
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3"/>
@@ -21,6 +23,7 @@ Passionate about solving real problems through design and code.
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white"/>
+  <br />
   <img src="https://img.shields.io/badge/-Liquid-8A4D76?style=flat"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
@@ -30,8 +33,7 @@ Passionate about solving real problems through design and code.
   <img src="https://img.shields.io/badge/-Element%20UI-409EFF?style=flat&logo=element&logoColor=white"/>
 </p>
 
-## 🚧 Learning 
-
+**🧠 Learning**
 <p align="center">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
